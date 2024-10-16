@@ -24,12 +24,9 @@
 3. Selecciona un superhéroe para ver sus estadísticas y atributos específicos.
 
 ### Capturas de pantalla
-![Pantalla de búsqueda](![1](https://github.com/user-attachments/assets/ae9fbd71-3def-48cc-bd3e-5cf823386db2)
-)
-![Resultados de búsqueda](![Simulator Screenshot - iPhone 16 - 2024-10-13 at 21 58 33](https://github.com/user-attachments/assets/8a19b483-1f4f-46e2-ba29-51e143311c44)
-)
-![Estadísticas del superhéroe](![Simulator Screenshot - iPhone 16 - 2024-10-13 at 21 58 56](https://github.com/user-attachments/assets/554ab189-d718-4291-8a1a-29a0f25d01a0)
-)
+![Pantalla de búsqueda] ![1](https://github.com/user-attachments/assets/9e5d68ef-e7ac-4248-971d-16a66814a483)
+
+![Estadísticas del superhéroe] ![Simulator Screenshot - iPhone 16 - 2024-10-13 at 21 58 56](https://github.com/user-attachments/assets/2b89d637-432e-4c02-b54d-45410dd5a669)
 
 ### Contribuciones
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar la aplicación o has encontrado algún error, por favor abre un **issue** o envía un **pull request**.
